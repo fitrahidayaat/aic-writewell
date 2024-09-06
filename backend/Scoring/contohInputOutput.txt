@@ -1,0 +1,19 @@
+-------------------------------------------------------------------------------------------------------------------------
+input
+-------------------------------------------------------------------------------------------------------------------------
+
+
+{
+  "essay": "Parents throughout the world place spend time reading with their offspring to prepare them for school where their literacy skills are further developed; however, recent research suggests that focusing on reading at an early age can be detrimental, and participating in fun activities would be far more beneficial. I am a strong advocate of this approach, and the benefits of it will be covered in this essay."
+}
+
+
+
+-------------------------------------------------------------------------------------------------------------------------
+output
+-------------------------------------------------------------------------------------------------------------------------
+
+{
+  "predicted_grade": 6.5
+}
+
